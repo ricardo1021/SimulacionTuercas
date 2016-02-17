@@ -25,6 +25,7 @@ public class SimulacionTuercas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Profeshor");
         DecimalFormat dec = new DecimalFormat("0.0000");
 
         Integer n = 0;
